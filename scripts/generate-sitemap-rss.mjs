@@ -12,6 +12,7 @@ function getDictionary(lang) {
     process.cwd(),
     "src",
     "app",
+    
     "dictionaries",
     `${lang}.json`
   );
